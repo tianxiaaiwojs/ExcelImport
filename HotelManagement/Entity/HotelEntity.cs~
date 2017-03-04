@@ -1,0 +1,12 @@
+﻿using System;
+namespace HotelManagement
+{
+	public abstract class HotelEntity
+	{
+		public HotelEntity()
+		{
+		}
+
+
+	}
+}

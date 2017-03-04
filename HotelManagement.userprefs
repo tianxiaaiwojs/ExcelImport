@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{D16AB0A0-A7C8-40AC-BDF4-C7A37E24F677}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HotelManagement/ExcelImportHelper.cs">
+    <Files>
+      <File FileName="HotelManagement/DatabaseHelper.cs" Line="41" Column="31" />
+      <File FileName="HotelManagement/MainWindow.cs" Line="1" Column="1" />
+      <File FileName="HotelManagement/Controller/HotelBookDetailController.cs" Line="19" Column="1" />
+      <File FileName="HotelManagement/DataAccessor/HotelBookDetailsDataAccessor.cs" Line="22" Column="1" />
+      <File FileName="HotelManagement/Attribute/DataTableAttribute.cs" Line="10" Column="1" />
+      <File FileName="HotelManagement/Attribute/DataColumnAttribute.cs" Line="12" Column="1" />
+      <File FileName="HotelManagement/Entity/HotelBaseEntity.cs" Line="8" Column="1" />
+      <File FileName="HotelManagement/Entity/HotelBookDetails.cs" Line="7" Column="1" />
+      <File FileName="HotelManagement/Configuration.xml" Line="4" Column="65" />
+      <File FileName="HotelManagement/ExcelImportHelper.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HotelManagement PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

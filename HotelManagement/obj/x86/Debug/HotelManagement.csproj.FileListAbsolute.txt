@@ -1,0 +1,9 @@
+/Users/ZHUBEIBEI/Projects/HotelManagement/HotelManagement/bin/Debug/Configuration.xml
+/Users/ZHUBEIBEI/Projects/HotelManagement/HotelManagement/bin/Debug/HotelManagement.exe
+/Users/ZHUBEIBEI/Projects/HotelManagement/HotelManagement/bin/Debug/HotelManagement.exe.mdb
+/Users/ZHUBEIBEI/Projects/HotelManagement/HotelManagement/bin/Debug/LumenWorks.Framework.IO.dll
+/Users/ZHUBEIBEI/Projects/HotelManagement/HotelManagement/bin/Debug/mysql.data.dll
+/Users/ZHUBEIBEI/Projects/HotelManagement/HotelManagement/bin/Debug/mysql.web.dll
+/Users/ZHUBEIBEI/Projects/HotelManagement/HotelManagement/bin/Debug/LumenWorks.Framework.IO.xml
+/Users/ZHUBEIBEI/Projects/HotelManagement/HotelManagement/obj/x86/Debug/HotelManagement.exe
+/Users/ZHUBEIBEI/Projects/HotelManagement/HotelManagement/obj/x86/Debug/HotelManagement.exe.mdb
